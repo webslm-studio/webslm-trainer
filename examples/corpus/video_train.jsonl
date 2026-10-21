@@ -1,0 +1,4 @@
+{"prompt":[{"role":"user","content":"<video>Does the orange square move?"}],"completion":[{"role":"assistant","content":"Yes. The orange square moves from left to right."}],"videos":["../media/moving_square.avi"]}
+{"prompt":[{"role":"user","content":"<video>Describe the square's motion."}],"completion":[{"role":"assistant","content":"The orange square moves across the frame toward the right."}],"videos":["../media/moving_square.avi"]}
+{"prompt":[{"role":"user","content":"<video>Does the orange square move?"}],"completion":[{"role":"assistant","content":"No. The orange square stays in the same place."}],"videos":["../media/still_square.avi"]}
+{"prompt":[{"role":"user","content":"<video>Describe the square's motion."}],"completion":[{"role":"assistant","content":"The square remains stationary throughout the clip."}],"videos":["../media/still_square.avi"]}

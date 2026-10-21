@@ -1,0 +1,4 @@
+{"prompt":[{"role":"user","content":"<audio>Describe the order of the two tones."}],"completion":[{"role":"assistant","content":"The first tone is lower, followed by a higher tone."}],"audios":["../media/rising_tones.wav"]}
+{"prompt":[{"role":"user","content":"<audio>Do the tones rise or fall?"}],"completion":[{"role":"assistant","content":"They rise from a lower pitch to a higher pitch."}],"audios":["../media/rising_tones.wav"]}
+{"prompt":[{"role":"user","content":"<audio>Describe the order of the two tones."}],"completion":[{"role":"assistant","content":"The first tone is higher, followed by a lower tone."}],"audios":["../media/falling_tones.wav"]}
+{"prompt":[{"role":"user","content":"<audio>Do the tones rise or fall?"}],"completion":[{"role":"assistant","content":"They fall from a higher pitch to a lower pitch."}],"audios":["../media/falling_tones.wav"]}

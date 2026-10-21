@@ -50,6 +50,7 @@ def train(config: TrainConfig) -> Path:
         save_strategy="no",
         logging_steps=1,
         report_to="none",
+        use_cpu=not torch.cuda.is_available(),
         **precision,
     )
     lora = LoraConfig(

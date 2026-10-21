@@ -1,0 +1,1 @@
+These tiny original fixtures show the audio and video dataset formats. Run `python examples/media/generate.py` to regenerate them; video generation needs `ffmpeg` or `imageio-ffmpeg`. They are format checks, not useful training data. Use representative, licensed media and labels for a real task.
