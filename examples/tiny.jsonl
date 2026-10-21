@@ -1,0 +1,4 @@
+{"prompt":[{"role":"user","content":"What is WebSLM Trainer?"}],"completion":[{"role":"assistant","content":"WebSLM Trainer is a small desktop app for creating LoRA adapters for small language models."}]}
+{"prompt":[{"role":"user","content":"What does a LoRA adapter contain?"}],"completion":[{"role":"assistant","content":"A LoRA adapter contains the small set of weights learned during fine-tuning. It is used together with its base model."}]}
+{"prompt":[{"role":"user","content":"Can I use a Liquid AI model?"}],"completion":[{"role":"assistant","content":"Yes. Select an LFM2.5 model and provide conversational training examples in JSONL format."}]}
+{"prompt":[{"role":"user","content":"What should I prepare before training?"}],"completion":[{"role":"assistant","content":"Prepare a JSONL dataset, enough device memory for the selected model, and an empty adapter output folder."}]}
